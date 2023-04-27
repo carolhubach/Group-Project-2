@@ -4,9 +4,13 @@
 
 # Group Repositories
 Carol Hubach - https://github.com/carolhubach/Group-Project-2.git
-Lily Athey - https://github.com/lilyathey/Project2.git
+
+Lily Athey - https://github.com/lilyathey/Project2.git	
+
 Lena Dindayal - https://github.com/lenadindayal/Group-Project2
+
 Valerie Penaranda - https://github.com/valerieep/Group-Project2/blob/main/README.md
+
 Jonathan Troyer - 
 
 ## Describing Your Dataset and What Data It Contains ##
